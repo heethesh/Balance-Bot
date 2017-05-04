@@ -5,6 +5,6 @@ A two-wheel self-balancing robot, based on the ATmega2560 micro-controller, whic
 Team ID: **eYRC-BB#2403** | 
 First prize winner at National Level e-Yantra Robotics Competition 2016-17 conducted by IIT Bombay, India and sponsored by MHRD, Government of India
 
-Refer the wiki folder for further details on the working of the robot.
+Refer the wiki folder for further details on the working of the robot and all the task submissions.
 
 Watch the video demonstration here: www.youtube.com/heethesh19 [COMING SOON]
