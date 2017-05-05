@@ -1,4 +1,4 @@
-# Wiki
+# Tasks
 
 **Task 0: Installation and Hardware Testing**
 This task involved installation of software for (i) microcontroller programming and (ii) simulation. The hardware provided to us was tested using the installed software. 
