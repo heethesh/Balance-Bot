@@ -7,4 +7,4 @@ First prize winner at National Level e-Yantra Robotics Competition 2016-17 condu
 
 Refer the wiki folder for further details on the working of the robot and all the task submissions.
 
-Watch the video demonstration here: www.youtube.com/heethesh19 [COMING SOON]
+Watch the video demonstration here: https://youtu.be/-k-lZ_CcU4U

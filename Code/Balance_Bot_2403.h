@@ -8,8 +8,8 @@
 * Author : Heethesh Vhavle
 * Email: heethesh@gmail.com
 *
-* GitHub: www.github.com/heethesh/Balance-Bot-2403
-* YouTube video demo link: www.youtube.com/heethesh19
+* GitHub: https://github.com/heethesh/Balance-Bot
+* YouTube video demo link: https://youtu.be/-k-lZ_CcU4U
 *
 * Team ID: eYRC-BB#2403
 * Theme: Balance Bot
