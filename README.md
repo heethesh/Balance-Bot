@@ -9,7 +9,7 @@ First prize winner at National Level e-Yantra Robotics Competition 2016-17 condu
 - **code** - The entire firmware with all the libraries
 - **datasheets** - Contains all the datasheets and references
 - **images** - Images of the robot and the joystick controller
-- report - Documentation on the working of the robot and all the task submissions
+- **report** - Documentation on the working of the robot and all the task submissions
 - **schematics** - Hardware schematic of the robot and the joystick controller
 
 Watch the video demonstration here: https://youtu.be/-k-lZ_CcU4U
