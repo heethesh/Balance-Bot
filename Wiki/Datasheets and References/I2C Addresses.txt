@@ -1,6 +1,0 @@
-
- 				Part Number			I2C Address	 
-3 Axis Gyro			ST Microelectronics L3G4200D  	0x69		Datasheet
-3 Axis Accelerometer		Analog Devices ADXL345 		0x53		Datasheet
-3 Axis Magnetometer		Honeywell MC5883L		0x1E		Datasheet
-Barometer + Thermometer		Bosch BMP085			0x77		Datasheet
